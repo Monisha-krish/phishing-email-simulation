@@ -30,22 +30,22 @@ The goal was to understand phishing indicators and analyze how attackers craft d
 
 ## Screenshots
 
-### Step 1: Configuring SET
+### Step 1: Selecting Social Engineering Attacks
 ![SET Configuration](https://github.com/user-attachments/assets/997a0739-045f-476b-97b7-870fc71c3323)
 
-### Step 2: Phishing Email Template
+### Step 2: Credential Harvester Attack Method
 ![Phishing Template](https://github.com/user-attachments/assets/45b1e8a4-a6ca-4acd-804c-9c634da12da1)
 
-### Step 3: Email Delivered in Inbox
+### Step 3: Choosing Google Web Template
 ![Phishing Email in Inbox](https://github.com/user-attachments/assets/0cd51471-297c-43b3-ba01-e00872e77103)
 
-### Step 4: Malicious Link Redirection
+### Step 4: Email Delivered in Inbox
 ![Redirection Screenshot](https://github.com/user-attachments/assets/22344c73-0346-41a5-ac50-78b88e859f89)
 
-### Step 5: Observing Indicators
+### Step 5: Malicious Link Redirection
 ![Indicators](https://github.com/user-attachments/assets/8df0559b-cbc0-47c6-80d6-18696b081480)
 
-### Step 6: Final Analysis
+### Step 6: Captured Phishing Page / Results
 ![Analysis](https://github.com/user-attachments/assets/25d3400f-d50d-48db-9adf-e442bc4d15bb)
 
 
