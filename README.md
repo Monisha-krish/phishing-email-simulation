@@ -30,8 +30,10 @@ The goal was to understand phishing indicators and analyze how attackers craft d
 
 ## Screenshots
 
-### Step 1: Selecting Social Engineering Attacks
-![Social-Engineering Attacks](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Social-Engineering%20Attacks.jpeg)
+<p align="center">
+  <b>1. Social Engineering Attacks</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Social-Engineering%20Attacks.jpeg" width="500"/>
+</p>
 
 ### Step 2: Credential Harvester Attack Method
 ![Credential Harvester Attack](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Credential%20Harvester%20Attack%20Method.jpeg)
