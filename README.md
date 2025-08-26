@@ -34,7 +34,8 @@ The goal was to understand phishing indicators and analyze how attackers craft d
 ![Social-Engineering Attacks](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Social-Engineering%20Attacks.jpeg)
 
 ### Step 2: Credential Harvester Attack Method
-![Credential Harvester Attack](https://raw.githubusercontent.com/Monisha-krish/phishing-email simulation/main/screenshots/Credential%20Harvester%20Attack%20Method.jpeg)
+![Credential Harvester Attack](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Credential%20Harvester%20Attack%20Method.jpeg)
+
 
 ### Step 3: Choosing Google Web Template
 ![Choose Web Template](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Choose%20Web%20Template.jpeg)
@@ -43,11 +44,10 @@ The goal was to understand phishing indicators and analyze how attackers craft d
 ![Email Payload](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Email%20Payload.jpeg)
 
 ### Step 5: Malicious Link Redirection
-![Credential Capture](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/credential_capture.jpeg)
-
-### Step 6: Captured Phishing Page / Results
 ![Fake Login Page](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/fake_login.jpeg)
 
+### Step 6: Captured Phishing Page / Results
+![Credential Capture](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/credential_capture.jpeg)
 
 👩‍💻 Author: **Monisha M R**  
 🔗 [LinkedIn](https://www.linkedin.com/in/monisha-m-r-b27189260)
