@@ -30,27 +30,38 @@ The goal was to understand phishing indicators and analyze how attackers craft d
 
 ## Screenshots
 
+## 📸 Screenshots  
+
 <p align="center">
   <b>1. Social Engineering Attacks</b><br>
   <img src="https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Social-Engineering%20Attacks.jpeg" width="500"/>
 </p>
 
-### Step 2: Credential Harvester Attack Method
-![Credential Harvester Attack](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Credential%20Harvester%20Attack%20Method.jpeg)
+<p align="center">
+  <b>2. Credential Harvester Attack Method</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Credential%20Harvester%20Attack%20Method.jpeg" width="500"/>
+</p>
 
+<p align="center">
+  <b>3. Choosing Web Template</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Choose%20Web%20Template.jpeg" width="500"/>
+</p>
 
+<p align="center">
+  <b>4. Email Payload</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Email%20Payload.jpeg" width="500"/>
+</p>
 
-### Step 3: Choosing Google Web Template
-![Choose Web Template](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Choose%20Web%20Template.jpeg)
+<p align="center">
+  <b>5. Fake Login Page</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/fake_login.jpeg" width="500"/>
+</p>
 
-### Step 4: Email Delivered in Inbox
-![Email Payload](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Email%20Payload.jpeg)
+<p align="center">
+  <b>6. Captured Credentials</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/credential_capture.jpeg" width="500"/>
+</p>
 
-### Step 5: Malicious Link Redirection
-![Fake Login Page](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/fake_login.jpeg)
-
-### Step 6: Captured Phishing Page / Results
-![Credential Capture](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/credential_capture.jpeg)
 
 👩‍💻 Author: **Monisha M R**  
 🔗 [LinkedIn](https://www.linkedin.com/in/monisha-m-r-b27189260)
