@@ -37,6 +37,7 @@ The goal was to understand phishing indicators and analyze how attackers craft d
 ![Credential Harvester Attack](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Credential%20Harvester%20Attack%20Method.jpeg)
 
 
+
 ### Step 3: Choosing Google Web Template
 ![Choose Web Template](https://raw.githubusercontent.com/Monisha-krish/phishing-email-simulation/main/screenshots/Choose%20Web%20Template.jpeg)
 
